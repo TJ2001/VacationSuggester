@@ -1,3 +1,21 @@
+h1 {
+  align: center;
+}
+
+img {
+  width: 900px;
+  height: auto;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.wide {
+  width: 1200px;
+  height: auto;
+}
+
 #bora {
   display: none;
 }
@@ -45,9 +63,3 @@
 #muirs3 {
   display: none;
 }
-
-
-/*img {
-  width: 700px;
-  height: auto;
-}*/

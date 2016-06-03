@@ -40,10 +40,10 @@ $(document).ready(function() {
 
       else if (budget === 'baller'){
       if (terrain === 'tropical') {
-        $('#bora').hide();
+        $('#bora').show();
         $('#bora2').hide();
         $('#bora3').hide();
-        $('#boras').show();
+        $('#boras').hide();
         $('#boras2').hide();
         $('#boras3').hide();
         $('#muir').hide();
