@@ -149,13 +149,13 @@ $(document).ready(function() {
         $('#bora').hide();
         $('#bora2').hide();
         $('#bora3').hide();
-        $('#boras').show();
+        $('#boras').hide();
         $('#boras2').hide();
         $('#boras3').hide();
         $('#muir').hide();
         $('#muir2').hide();
         $('#muir3').hide();
-        $('#muirs').hide();
+        $('#muirs').show();
         $('#muirs2').hide();
         $('#muirs3').hide();
       }}
